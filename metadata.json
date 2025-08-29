@@ -1,0 +1,5 @@
+{
+  "name": "AI Virtual Try-On Stylist",
+  "description": "An AI-powered virtual try-on application. Users can upload a photo of themselves and an outfit to see a realistic preview of how it would look, with options to adjust fit and background.",
+  "requestFramePermissions": []
+}
